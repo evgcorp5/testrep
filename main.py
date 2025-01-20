@@ -1,4 +1,4 @@
-def print_hello():
-    return 'hello'
+class Hello:
+    hello_msg = 'hello'
 
-print(print_hello())
+print(Hello.hello_msg)
