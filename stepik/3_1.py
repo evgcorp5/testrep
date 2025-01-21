@@ -5,4 +5,3 @@ class Constructor:
 
     def display(self):
         print(self.__dict__)
-D
