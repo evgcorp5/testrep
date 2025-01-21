@@ -8,4 +8,8 @@ print(Hello.hello_msg)
 
 
 
-hi_hi = Hello: #from another branch
+hi = Hello();
+ #that was merge to main branchg
+
+
+print(hi.hello_msg)
