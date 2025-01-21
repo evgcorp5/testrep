@@ -6,3 +6,6 @@ class Hello:
 
 print(Hello.hello_msg)
 
+
+
+hi = Hello()
